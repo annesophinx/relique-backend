@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const Utils = require('./../utils')
-const Masterclass = require('./../models/Masterclass')
+const Masterclass = require('./../models/masterclass')
 const path = require('path')
 
 // GET- get all Masterclasses---------------------------
