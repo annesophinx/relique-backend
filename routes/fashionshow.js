@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const Utils = require('./../utils')
-const Fashionshow = require('./../models/Fashionshow')
+const Fashionshow = require('./../models/fashionshow')
 const path = require('path')
 
 // GET- get all Fashionshow ---------------------------
